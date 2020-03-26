@@ -13,3 +13,4 @@ Every weekly task/problem is named with the suggested name advised by the lectur
 4.WeekDay.py
 5.Squareroot.py
 6.Es.py
+7. Testtext is a sample text file added along with es.py as part of this exercise
