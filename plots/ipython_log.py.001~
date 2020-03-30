@@ -1,0 +1,44 @@
+# IPython log file
+
+get_ipython().magic(u'logstart')
+a= 1
+b= 4
+C= -2
+import mumpy as np
+import numpy as np
+import matplotlib.pyplot as plt
+l = np.arange(0.0, 10.0,0.5)
+l
+m= [1,2,3]
+1 m**2
+l - l
+l**2
+plt.plot (l, l**2)
+plt.show()
+plt.show()
+plt.plot (l, l*2)
+plt.show()
+x= np.arange (1.0, 10.0, 1.0)
+y1= x**2
+y2= 2**x
+y1
+y2
+plt.plot (x,y1)
+plt.plot(x,y2)
+plt.show()
+x= np.linspace(1.0,10.0,1000)
+x
+plt.plot(x,y1)
+plt.plot(x)
+plt.plot show()
+plt.show ()
+y1= x**2
+y2= 2**x
+x= np.linspace(1.0, 10.0,100)
+x
+y1= 2**x
+y2= 2**x
+y1=x**2
+plt.plot(x, y1,"g",label="squared")
+plt show()
+plt.show()
