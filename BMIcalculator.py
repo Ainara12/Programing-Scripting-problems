@@ -1,3 +1,5 @@
+#Ainara Ruiz Castillo
+
 #This program calculates Body Mass Index (BMI) 
 # using person's height 
 # in centimetres and weight in KG

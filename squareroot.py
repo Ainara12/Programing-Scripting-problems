@@ -1,4 +1,5 @@
-#Ainara Ruiz Castillo- Task for week 6-
+#Ainara Ruiz Castillo
+
 #I am creating my first function following steps from week 6 tutorials
  #this week task consists of writing a program that consists of taking a positive floating-point number and outputing
 #an approximation of its square root.
@@ -19,11 +20,6 @@ print ("The square root of ", x , "is approx" ,sqrt(x))
 
 print ("Thanks for using my program")
  
-
-#Resources consulted for reference:
-# https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d
-
-
 
 
   

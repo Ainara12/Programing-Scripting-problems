@@ -1,7 +1,9 @@
+#Ainara Ruiz Castillo
+
 #This program calculates the successive values of the following
 # calculation: Next value by taking the positive integer added by user
 # and if it is even divide it by two, if it is odd, multiply by
-#three and add one.Program ends if current value is one. 
+#3 and add 1.Program ends if current value is one. 
 
 pnumber=int(input("Enter a positive integer here:"))
 
