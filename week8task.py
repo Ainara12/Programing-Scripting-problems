@@ -14,7 +14,7 @@ g= x**2
 h= x**3
 
 ax.plot (f,f, label= "linear")
-ax.plot (f,g, label=" squared")#After creating variables plot data in axes and added labels for each line
+ax.plot (f,g,"r--", label=" squared")#After creating variables plot data in axes and added labels for each line.
 ax.plot (f,h, label=" cubed")
 
 ax.legend()#I added legend and title to plot
