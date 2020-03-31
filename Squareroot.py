@@ -30,5 +30,3 @@ print ("Thanks for using my program")
 
 
 
-
-#Using our recommended reading "A Whirlwind Tour of Python" I consulted "Defining and Using Functions" section:
