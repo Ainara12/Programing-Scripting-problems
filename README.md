@@ -103,7 +103,7 @@ https://realpython.com/python-matplotlib-guide/#stateful-versus-stateless-approa
 **License & Copyright**
 © Ainara Ruiz Castillo, GMIT student.
 
-Licensed under the [MIT LICENSE] (https://github.com/Ainara12/Programing-Scripting-problems/blob/master/LICENSE)
+Licensed under the MIT LICENSE.
 
 
 Thanks so much for reading this document. If you need further information do not hesitate to consult me. 
