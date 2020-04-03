@@ -43,7 +43,7 @@ The parameters to decide this are as follows:
 Using the BMI calculating formula , we created a script that takes Weight and Height as inputs , calculate with formula and print message indicating which one is the BMI for the user. 
 
 **References**  
-https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792  
+[BMI calculator approaches](https://stackoverflow.com/questions/20405610/bmi-calculator-in-python/20405792)  
 
 **2.SecondString.py**
 
@@ -51,15 +51,15 @@ This task consists in using a sentence entered by the user, the program creates 
 I added the sentence *The quick brown fox jumps over the lazy dog* as an example to use . The result should be:*.o zletrv pu o wr cu h*
 
 **References**  
-https://docs.python.org/3/tutorial/datastructures.html
+[Datastructures](https://docs.python.org/3/tutorial/datastructures.html)
 
 **3.Collatz.py**
 
 In this task we had the goal to create a program which asks the user to enter a positive integer. Then using a *while* loop the program decides if it needs to stop ( in case that the value entered is 1), divided by 2 (if the value is even) or multiply by 3 and add 1 ( if value is odd). I have also added the option that the number entered might not be a positive integer , then the program prints the message confirming the value is not positive and stops.
 
 **References**  
-https://realpython.com/python-while-loop/#the-while-loop  
-https://stackoverflow.com/questions/14591872/adding-consecutive-integers-in-python-with-a-twist  
+[While loop](https://realpython.com/python-while-loop/#the-while-loop)  
+[Consecutive integers](https://stackoverflow.com/questions/14591872/adding-consecutive-integers-in-python-with-a-twist)  
 
 **4.Weekday.py**
 
@@ -68,8 +68,8 @@ For this task I imported *datetime* module in order to convert dates in date obj
 The works for this code are well explained within *Weekday.py* but basically we are using a *if* statement to advise different message outputs depending on whether the current day is between 0 ( Monday) and 4 (Friday)or else is greater than 5 which implies it is Saturday(5) or Sunday (6)
 
 **References**  
-https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python  
-https://www.w3schools.com/python/python_datetime.asp  
+[Finding current weekday in Python](https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python)    
+[Datetime](https://www.w3schools.com/python/python_datetime.asp)  
 
 **5.Squareroot.py**
 
@@ -79,7 +79,7 @@ The code is self-explanatory and had comments indicating how it works. Basically
 At the end the program prints the value entered by user and the square root calculation result.
 
 **References**  
-https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d
+[Squareroot](https://medium.com/@sddkal/newton-square-root-method-in-python-270853e9185d)
 
 **6.Es.py**
 
@@ -87,8 +87,8 @@ For this task the goal is to create a program that counts how many times a chara
 The method is explained in comments in the code as always, but basically I first opened this text file in read mode and using *count* function found how many *e's* are there. 
 
 **References**  
-https://realpython.com/read-write-files-python/    
-https://realpython.com/python-strings/  
+[How to read and write files in Python](https://realpython.com/read-write-files-python/)      
+[Strings in Python](https://realpython.com/python-strings/)  
 
 **7.Week8task.py**
 
@@ -97,13 +97,14 @@ Instructions are in comments within the code but as a summary: First I imported 
 The plot resulted from this program is attached to this repository as *Plotfromweek8task.png*.
 
 **References**  
-https://matplotlib.org/tutorials/introductory/pyplot.html  
-https://realpython.com/python-matplotlib-guide/#stateful-versus-stateless-approaches  
+[Pyplot tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)    
+[Matplot library guide](https://realpython.com/python-matplotlib-guide/#stateful-versus-stateless-approaches)  
 
-**License & Copyright**
-© Ainara Ruiz Castillo, GMIT student.
+**License & Copyright**  
 
-Licensed under the MIT LICENSE.
+© Ainara Ruiz Castillo, GMIT student.  
+
+Licensed under the [MIT LICENSE](https://github.com/Ainara12/Programing-Scripting-problems/blob/master/LICENSE)  
 
 
 Thanks so much for reading this document. If you need further information do not hesitate to consult me. 
