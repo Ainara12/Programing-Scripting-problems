@@ -4,11 +4,11 @@
 
 Hi my name is Ainara Ruiz Castillo and this is my Programming & scripting problems repository. 
 
- This repository includes the weekly tasks we have being asked to complete weekly and the attemps I made in order to solve these. 
+ This repository includes the weekly tasks we have being asked to complete weekly and my best efforts to achieve the goal in each of them.
  I have also attached any extra files that might be part of the tasks such as "Moby Dick.txt" or "Plotfromweek8task.png".
 
 Before adding the code for every task I briefly comment which one is the purpose of the task and the result we are expecting.
-Then I have also included extra comments as clarification in some parts of the code that might be confusing to understand.
+Then I have also included extra comments as clarification in some parts of the code that might be difficult to understand.
 
 Every weekly task/problem is named with the suggested name advised by the lecturer in every task description. 
 
@@ -65,7 +65,7 @@ https://stackoverflow.com/questions/14591872/adding-consecutive-integers-in-pyth
 
 With this task the goal was to create a program that would confirm if the current day is weekday or weekend.
 For this task I imported *datetime* module in order to convert dates in date objects.
-The works for this code are well explained within *Weekday.py* but basically we are using a *if* statement to advise different message outputs depending on wether the current day is between 0 ( Monday) and 4 (Friday)or else is greater than 5 which implies it is Saturday(5) or Sunday (6)
+The works for this code are well explained within *Weekday.py* but basically we are using a *if* statement to advise different message outputs depending on whether the current day is between 0 ( Monday) and 4 (Friday)or else is greater than 5 which implies it is Saturday(5) or Sunday (6)
 
 **References**  
 https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python  
@@ -75,7 +75,7 @@ https://www.w3schools.com/python/python_datetime.asp
 
 In this task I had to write a program that takes  a positive floating-point number entered by the user and outputs then
 an approximation of its square root, taking as reference Newton's square root method.
-The code is self explanatory and had comments indicating how it works. Basically we create a variable for the user input , then I created a function named "sqrt" as was required by the task with is return as the formula to find the approximate square root. 
+The code is self-explanatory and had comments indicating how it works. Basically we create a variable for the user input , then I created a function named "sqrt" as was required by the task with is return as the formula to find the approximate square root. 
 At the end the program prints the value entered by user and the square root calculation result.
 
 **References**  
