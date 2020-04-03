@@ -1,6 +1,6 @@
-#**Programming & scripting problems**
+#  Programming & scripting problems 
 
-##**Purpose of this repository:**
+## Purpose of this repository: 
 
 Hi my name is Ainara Ruiz Castillo and this is my Programming & scripting problems repository. 
 
@@ -99,6 +99,11 @@ The plot resulted from this program is attached to this repository as *Plotfromw
 **References**  
 https://matplotlib.org/tutorials/introductory/pyplot.html  
 https://realpython.com/python-matplotlib-guide/#stateful-versus-stateless-approaches  
+
+**License & Copyright**
+© Ainara Ruiz Castillo, GMIT student.
+
+Licensed under the [MIT LICENSE] (https://github.com/Ainara12/Programing-Scripting-problems/blob/master/LICENSE)
 
 
 Thanks so much for reading this document. If you need further information do not hesitate to consult me. 
